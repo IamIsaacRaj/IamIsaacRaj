@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [in Github](in Github)
-
 - 📫 How to reach me **isaacraj890@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
