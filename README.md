@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raju gudikati</h1>
-<h3 align="center">A passionate frontend developer from HyderabadIndia</h3>
+<h3 align="center">A passionate frontend developer from Hyderabad,Telangana,India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
